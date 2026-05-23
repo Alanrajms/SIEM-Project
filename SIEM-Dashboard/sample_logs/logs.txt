@@ -1,0 +1,8 @@
+User login successful
+Failed login attempt from IP 192.168.29.146
+System started normally
+SQL Injection attack detected
+Unauthorized access attempt
+Backup completed successfully
+Brute force attack detected
+Malware signature found

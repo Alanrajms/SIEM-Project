@@ -1,0 +1,7 @@
+Failed login from 192.168.1.10
+SQL Injection attack from 45.22.11.9
+Brute force detected from 103.44.55.6
+Brute force detected from 103.44.55.7
+Brute force detected from 103.44.55.10
+Brute force detected from 103.44.55.20
+SQL Injection attack from 45.22.11.15
